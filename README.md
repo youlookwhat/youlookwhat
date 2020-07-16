@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 [![景彬's github stats](https://github-readme-stats.vercel.app/api?username=youlookwhat)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 <img src="https://v1.jinrishici.com/all.svg" style="max-width:100%;">
+-->
+
+![](https://v1.jinrishici.com/all.svg) 
 
 <!--
 <img src="https://v1.jinrishici.com/all.svg?font-size=18&spacing=2">
