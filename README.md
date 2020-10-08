@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 <img src="https://v1.jinrishici.com/all.svg?font-size=18&spacing=2">
 -->
 
+<!--
 [![](https://github-readme-stats.vercel.app/api?username=youlookwhat)](https://github.com/youlookwhat)
+-->
