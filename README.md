@@ -3,7 +3,7 @@
 
 The App I developed：
  - [CloudReader(云阅)](https://github.com/youlookwhat/CloudReader): 网易云音乐UI & 玩安卓、干货集中营、电影 Api & MVVM-databinding
- - [ipicture(看点壁纸)](http://d.firim.info/ipicture):  爱壁纸无广告版，还可以搜索海量图片，一键设置壁纸，欢迎尝鲜
+ - [ipicture(看点壁纸)](http://d.firim.info/ipicture):  爱壁纸无广告版，图虫、搜索海量图片、一键设置壁纸，欢迎尝鲜
  
 <!--
 开源的三方库:
