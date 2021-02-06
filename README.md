@@ -1,9 +1,5 @@
 
 ### Hi, I'm an Android developer 👋
-
-The App I developed：
- - [CloudReader(云阅)](https://github.com/youlookwhat/CloudReader): 网易云音乐UI & 玩安卓、干货集中营 Api & MVVM-databinding
- - [ipicture(看点壁纸)](http://d.firim.info/ipicture):  爱壁纸无广告版，图虫、搜索海量图片、一键设置壁纸，欢迎尝鲜
  
 <!--
 开源的三方库:
@@ -16,6 +12,10 @@ The App I developed：
 
 <!--
 **youlookwhat/youlookwhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+The App I developed：
+ - [CloudReader(云阅)](https://github.com/youlookwhat/CloudReader): 网易云音乐UI & 玩安卓、干货集中营 Api & MVVM-databinding
+ - [ipicture(看点壁纸)](http://d.firim.info/ipicture):  爱壁纸无广告版，图虫、搜索海量图片、一键设置壁纸，欢迎尝鲜
 
 Here are some ideas to get you started:
 
