@@ -29,20 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-<!--
-<img src="https://v1.jinrishici.com/all.svg" style="max-width:100%;">
--->
-
-<!--
-![](https://v1.jinrishici.com/all.svg) 
--->
-
-<!--
-<img src="https://v1.jinrishici.com/all.svg?font-size=18&spacing=2">
--->
 <!--
 #### 📈 GitHub Stats
 -->
@@ -54,6 +40,7 @@ Here are some ideas to get you started:
 -->
 <!--
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 🎯 `Juejin` : https://juejin.cn/user/201965867640862/posts
 -->
 
 <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
@@ -61,6 +48,4 @@ Here are some ideas to get you started:
 ### Hi there  👋
 - 😄 `Nick` : Jinbeen
 - 📫 `Location` : Wuhan, China
-- 🚀 `Blog` : https://jinbeen.com
-- 🎯 `Juejin` : https://juejin.cn/user/201965867640862
-
+- 🚀 `Blog` : https://jinbeen.com | [Juejin](https://juejin.cn/user/201965867640862/posts)
