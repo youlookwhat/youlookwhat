@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 ### Hi there  👋
 - 😄 `Nick` : Jinbeen
 - 📫 `Location` : Wuhan, China
-- 🚀 `Blog` : https://jinbeen.com | [Juejin](https://juejin.cn/user/201965867640862/posts)
+- 🚀 `Blog` : https://jinbeen.com | [掘金](https://juejin.cn/user/201965867640862/posts)
