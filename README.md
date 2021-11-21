@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
 
 ### Hi there  👋
-- 😄 `Nick` : Jinbeen
-- 📫 `Location` : Wuhan, China
-- 🚀 `Blog` : https://jinbeen.com | [掘金](https://juejin.cn/user/201965867640862/posts)
+- 😄 Nick: Jinbeen
+- 🔭 Focus on Android / HarmonyOS
+- 💬 https://jinbeen.com
+- 📫 [掘金](https://juejin.cn/user/201965867640862/posts)、[CSDN](https://blog.csdn.net/jingbin_)、[简书](https://www.jianshu.com/u/e43c6e979831)
