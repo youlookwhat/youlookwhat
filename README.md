@@ -13,21 +13,6 @@
 <!--
 **youlookwhat/youlookwhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-The App I developed：
- - [CloudReader(云阅)](https://github.com/youlookwhat/CloudReader): 网易云音乐UI & 玩安卓、干货集中营 Api & MVVM-databinding
- - [ipicture(看点壁纸)](http://d.firim.info/ipicture):  爱壁纸无广告版，图虫、搜索海量图片、一键设置壁纸，欢迎尝鲜
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 #### 📈 GitHub Stats
@@ -42,11 +27,13 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🎯 `Juejin` : https://juejin.cn/user/201965867640862/posts
 -->
+<!-- <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
+ -->
 
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
+<img align="right" alt="youlookwhat's github stats" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&icon_color=52B985&text_color=718096&bg_color=00000000&hide_title=false&theme=vue&hide_border=true" />
 
 ### Hi there  👋
 - 😄 Nick: Jinbeen
-- 🔭 Focus on Android / HarmonyOS
+- 🔭 Focus on Android/HarmonyOS
 - 💬 https://jinbeen.com
 - 📫 [掘金](https://juejin.cn/user/201965867640862/posts)、[CSDN](https://blog.csdn.net/jingbin_)、[简书](https://www.jianshu.com/u/e43c6e979831)
