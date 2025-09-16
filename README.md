@@ -4,6 +4,7 @@
 
 <!--
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://apps.apple.com/cn/app/id1314212521)
 -->
 <!-- <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&show_icons=true&theme=vue&hide_border=true">
  -->
