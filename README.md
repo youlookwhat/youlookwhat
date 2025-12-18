@@ -14,5 +14,5 @@
 ### Hi there  👋
 - 😄 Nickname: Jinbeen
 - 🔭 Focus on Android / iOS / 鸿蒙
-- 📱 iOS App：所思 [![](https://img.shields.io/itunes/v/1668533045.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1668533045)
+- 📱 iOS App：所思所梦 [![](https://img.shields.io/itunes/v/1668533045.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1668533045)
 - 📫 [小红书](https://www.xiaohongshu.com/user/profile/59ba28cf5e87e72d410d84c1)、[掘金](https://juejin.cn/user/201965867640862/posts)、[CSDN](https://blog.csdn.net/jingbin_)、[简书](https://www.jianshu.com/u/e43c6e979831)、[博客](https://youlookwhat.github.io)
