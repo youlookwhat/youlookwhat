@@ -11,7 +11,7 @@
 <!-- HarmonyOS -->
 <!-- <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=youlookwhat&count_private=true&show_icons=true&icon_color=52B985&text_color=718096&bg_color=00000000&hide_title=false&theme=vue&hide_border=true" /> -->
 
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=youlookwhat&show_icons=true&locale=en&theme=vue&count_private=true&icon_color=52B985&text_color=718096&bg_color=00000000" />
+<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-stats-extended.vercel.app/api?username=youlookwhat&show_icons=true&locale=en&theme=vue&count_private=true&icon_color=52B985&text_color=718096&bg_color=00000000" />
 
 ### Hi there  👋
 - 💻 散修独立开发者
