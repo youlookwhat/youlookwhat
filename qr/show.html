@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .content {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            word-break: break-all;
+            line-height: 1.6;
+        }
+        h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <!-- <h3>扫码内容</h3> -->
+    <div class="content" id="textContent">加载中...</div>
+    
+    <script>
+        // 获取 URL 参数中的文本
+        const params = new URLSearchParams(window.location.search);
+        const text = params.get('text');
+        
+        if (text) {
+            document.getElementById('textContent').innerText = decodeURIComponent(text);
+        } else {
+            document.getElementById('textContent').innerText = 'no content';
+        }
+    </script>
+</body>
+</html>
